@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lasai Barreñada young researcher and statistician
 - 👀 I’m interested in everything related to Artificial Inteligence, specially machine learning.
-- 🌱 I’m currently learning about mathematics and machine learning innovative method such as transformers. 
+- 🌱 I’m currently learning about mathematics and machine learning applied to health. 
 - 💞️ I’m looking to collaborate with a university or research institution to develop a PhD on artificial intelligence. 
 - 📫 Reach me in lasaitaleb@gmail.com or lbarrenada@bcamath.org
 
