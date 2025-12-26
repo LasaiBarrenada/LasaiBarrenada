@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lasai Barreñada young researcher and statistician in KU Leuven
+- 👋 Hi, I’m Lasai Barreñada young researcher and statistician at KU Leuven
 - I am currently researching on prediction modelling applied to health. 
 - 📫 Reach me in lasai.barrenadataleb@kuleuven[dot]be
 
