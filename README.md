@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Lasai Barreñada early career researcher and biostatistician at KU Leuven
 - I am currently researching on prediction modelling applied to health. 
 
-### ⚙️ GitHub Analytics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LasaiBarrenada&show_icons=true&theme=default)](https://github.com/LasaiBarrenada)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LasaiBarrenada&layout=compact&theme=default)](https://github.com/LasaiBarrenada)
 
 ### 🤝 Get in Touch
 
