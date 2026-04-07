@@ -1,17 +1,10 @@
-- 👋 Hi, I’m Lasai Barreñada young researcher and statistician at KU Leuven
+- 👋 Hi, I’m Lasai Barreñada early career researcher and biostatistician at KU Leuven
 - I am currently researching on prediction modelling applied to health. 
-- 📫 Reach me in lasai.barrenadataleb@kuleuven[dot]be
 
 ### ⚙️ GitHub Analytics
 
-<p align="left">
-  <a href="https://github.com/LasaiBarrenada">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=LasaiBarrenada&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/LasaiBarrenada">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasaiBarrenada&layout=compact&langs_count=7&theme=default" alt="Top Languages" />
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LasaiBarrenada&show_icons=true&theme=default)](https://github.com/LasaiBarrenada)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LasaiBarrenada&layout=compact&theme=default)](https://github.com/LasaiBarrenada)
 
 ### 🤝 Get in Touch
 
