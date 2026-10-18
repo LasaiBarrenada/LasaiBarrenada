@@ -1,5 +1,6 @@
 # Hi there, I'm Lasai Barreñada 👋
 
+[![KU Leuven GitLab](https://img.shields.io/badge/GitLab-KU%20Leuven-FC6D26?style=flat-square&logo=gitlab)](https://gitlab.kuleuven.be/u0158158)
 [![Website](https://img.shields.io/badge/Website-lasaibarrenada.github.io-blue?style=flat-square&logo=google-chrome)](https://lasaibarrenada.github.io/)
 [![Email](https://img.shields.io/badge/Email-lasai.barrenadataleb%40kuleuven.be-red?style=flat-square&logo=mail.ru)](mailto:lasai.barrenadataleb@kuleuven.be)
 [![Institution](https://img.shields.io/badge/KU%20Leuven-FWO%20Postdoc-003B5C?style=flat-square)](https://www.kuleuven.be/)
