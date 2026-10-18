@@ -1,21 +1,25 @@
-- 👋 Hi, I’m Lasai Barreñada early career researcher and biostatistician at KU Leuven
-- I am currently researching on prediction modelling applied to health. 
+# Hi there, I'm Lasai Barreñada 👋
 
+[![Website](https://img.shields.io/badge/Website-lasaibarrenada.github.io-blue?style=flat-square&logo=google-chrome)](https://lasaibarrenada.github.io/)
+[![Email](https://img.shields.io/badge/Email-lasai.barrenadataleb%40kuleuven.be-red?style=flat-square&logo=mail.ru)](mailto:lasai.barrenadataleb@kuleuven.be)
+[![Institution](https://img.shields.io/badge/KU%20Leuven-FWO%20Postdoc-003B5C?style=flat-square)](https://www.kuleuven.be/)
 
-### 🤝 Get in Touch
+I am a **medical statistician** dedicated to developing, validating, and improving clinical prediction models to aid medical decision-making, with a strong focus on honest and transparent development and evaluation.
 
-If you're interested in any of my work or think I could help you with yours, feel free to reach out!
+---
 
-<p>
-  <a href="https://lasaibarrenada.github.io">
-    <img src="https://img.shields.io/badge/lasaibarrenada.github.io-blue?style=flat-square" alt="Website" />
-  </a>
-  <a href="mailto:lasai.barrenadataleb@kuleuven.be">
-    <img src="https://img.shields.io/badge/Email-lasai.barrenadataleb@kuleuven.be-red?style=flat-square" alt="Email" />
-  </a>
-</p>
+### 🔬 Research & Focus
 
-<!---
-LasaiBarrenada/LasaiBarrenada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎯 **Methodology & Application:** Combining methodological and applied research to improve the **calibration** and **clinical utility** of prediction models.
+- 🏥 **Clinical Applications:** Prediction models for ovarian cancer diagnosis, including the **ADNEX** model.
+- 🏛️ **Affiliations:** 
+  - **FWO Postdoctoral Fellow** at **KU Leuven** in the *Department of Development and Regeneration*.
+  - Member of the **International Ovarian Tumour Analysis (IOTA)** group.
+
+---
+
+### 💻 Open-Source & Software
+
+- R packages and statistical tools for clinical prediction model validation, calibration, and evaluation.
+
+---
